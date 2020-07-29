@@ -1,0 +1,65 @@
+body{
+    padding-top: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(33, 33, 33);
+}
+audio{
+    width: 100%;
+}
+input[type="button"]{
+    color: rgb(235, 235, 235);
+}
+
+
+.heading{
+    text-align: center;
+    color: rgb(235, 235, 235);
+}
+.heading p{
+    margin-top: 1%;
+}
+.heading a:link, a:hover, a:active, a:visited{
+    color: rgb(235, 235, 235);
+    text-decoration: none;
+}
+
+.menu{
+    margin-top: 20%;
+    margin-left: 20%;
+}
+.menu img{
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+}
+
+.movies{
+    color: rgb(235, 235, 235);
+}
+.movies span{
+    float: left;
+}
+.movies a:link, a:hover, a:active, a:visited{
+    color:  rgb(235, 235, 235);
+    text-decoration: none;
+}
+
+.music{
+    color: rgb(235, 235, 235);
+}
+.music a:link,a:hover, a:active, a:visited{
+    color: rgb(235, 235, 235);
+    text-decoration: none;
+}
+.music input[type="text"]{
+    color: rgb(33, 33, 33);
+}
+
+.playlist{
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.playlist span{
+    text-align: center;
+}
